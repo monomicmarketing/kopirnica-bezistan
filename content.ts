@@ -2,7 +2,7 @@
 export const business = {
   name: "Kopirnica Bezistan",
   shortName: "BEZISTAN",
-  eyebrow: "KOPIRNICA � SARAJEVO",
+  eyebrow: "KOPIRNICA · SARAJEVO",
   address: "Gazi Husrev-begova 33, Sarajevo",
   phoneDisplay: "064 44 67 072",
   phoneHref: "+387644467072",
@@ -15,4 +15,3 @@ export const business = {
   prices: [] as { name: string; amount: string; unit?: string }[],
   colors: { ink: "#202321", paper: "#eee9df", copper: "#ae7759" },
 };
-
