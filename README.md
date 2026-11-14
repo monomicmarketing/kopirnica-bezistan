@@ -1,17 +1,20 @@
-# Kopirnica Bezistan
+# Kopirnica Bezistan · nezvanični koncept
 
-Mobile-first Next.js site concept for Kopirnica Bezistan, Sarajevo. The CSS-constructed printer and paper use transform/opacity animation, with a static reduced-motion state and replay control. There are no image or animation downloads.
+Mobile-first Next.js stranica za demonstraciju potencijalnom klijentu. Ovo nije službena stranica kopirnice. Demo ima `noindex, nofollow` metapodatke i `robots.txt` zabranu indeksiranja; ukloniti ih tek nakon vlasnikovog odobrenja.
 
-## Run
+## Pokretanje
 
 ```bash
 npm install
 npm run dev
+npm run typecheck
 npm run build
 ```
 
-## Content to confirm
+## Izmjene sadržaja
 
-The central `content.ts` stores name, location, phone, colors, image paths and future service/price entries. The address and phone come from a public business listing and should be confirmed by the owner. The site intentionally labels services, prices and opening hours as pending. No real logo, photos, reviews or price claims have been inserted. The typography and printer are visual concepts, not a claim to be the official brand or equipment.
+`content.ts` je centralna konfiguracija za naziv, boje, telefon, adresu, radno vrijeme, usluge, cijene i buduće fotografije. `dataStatus` čuva porijeklo i status potvrde. Kada vlasnik dostavi službeni cjenovnik, unos u `business.prices` automatski zamjenjuje upitni prikaz na papiru. Engleska kratka verzija je u `app/en/page.tsx`.
 
-When information arrives, replace the placeholders in `app/page.tsx` with mapped `business.services` and `business.prices`, and provide approved photography/logo files in `public/`. Confirm delivery methods before describing document submission online. The map is a stylized illustration; the navigation link opens a Google Maps search for the address.
+Telefon, adresa i radno vrijeme potiču iz [javnog poslovnog imenika](https://www.sveposao.com/hr-BA/kopirnica-bezistan-064-44-67-072) i nisu potvrđeni od vlasnika. Opis usluga zasniva se na javno dostupnim iskustvima kupaca. Nisu objavljeni cijene, e-mail, logo, fotografije, recenzije ni tvrdnje o dodatnim uslugama. Tipografski znak i CSS printer su dizajnerski koncepti. Lokacijska kartica je adresni poster, a dugme otvara Google Maps pretragu.
+
+Prije službenog objavljivanja potvrditi kontakt i satnicu, spisak usluga, metode slanja dokumenata, cjenovnik, vizuelni identitet i dozvolu za objavu. Tada ukloniti demo oznake, robots zabranu i `noindex` u `app/layout.tsx`, `app/en/page.tsx` i `app/robots.ts`.
