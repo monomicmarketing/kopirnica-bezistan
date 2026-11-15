@@ -7,10 +7,11 @@ export const business = {
   phoneDisplay: "+387 64 44 67 072",
   phoneHref: "+387644467072",
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+  mapsEmbedUrl: "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
   hours: [
-    { days: "Ponedjeljak – petak", time: "08:00 – 19:00" },
-    { days: "Subota", time: "10:00 – 15:00" },
-    { days: "Nedjelja", time: "Zatvoreno" },
+    { days: "Ponedjeljak – petak", daysEn: "Monday – Friday", time: "08:00 – 19:00", timeEn: "08:00 – 19:00" },
+    { days: "Subota", daysEn: "Saturday", time: "10:00 – 15:00", timeEn: "10:00 – 15:00" },
+    { days: "Nedjelja", daysEn: "Sunday", time: "Zatvoreno", timeEn: "Closed" },
   ],
   dataStatus: {
     address: "public-directory-unconfirmed",

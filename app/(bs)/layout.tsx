@@ -1,5 +1,5 @@
 import { business } from "@/content";
-import "./globals.css";
+import "../globals.css";
 
 export const metadata = {
   title: `${business.name} | Printanje dokumenata u Sarajevu · demo`,

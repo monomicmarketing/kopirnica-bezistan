@@ -1,0 +1,964 @@
+{
+  "widths": {
+    "280": {
+      "width": 280,
+      "height": 680,
+      "scrollWidth": 280,
+      "hero": {
+        "left": 18,
+        "right": 262,
+        "top": 175,
+        "bottom": 246
+      },
+      "printer": {
+        "left": 47,
+        "right": 232,
+        "top": 490,
+        "bottom": 591
+      },
+      "paper": {
+        "left": 77,
+        "right": 201,
+        "top": 557,
+        "bottom": 642
+      },
+      "menu": {
+        "left": 218,
+        "right": 262,
+        "top": 47,
+        "bottom": 91
+      },
+      "map": {
+        "left": 18,
+        "right": 262,
+        "top": 5495,
+        "bottom": 6041
+      },
+      "sticky": {
+        "left": 0,
+        "right": 280,
+        "top": 618,
+        "bottom": 680
+      },
+      "groupWidth": 4124,
+      "tickerWidth": 280,
+      "robots": "noindex, nofollow",
+      "lang": "bs",
+      "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+      "phones": [
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072"
+      ],
+      "maps": [
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+      ]
+    },
+    "320": {
+      "width": 320,
+      "height": 680,
+      "scrollWidth": 320,
+      "hero": {
+        "left": 18,
+        "right": 302,
+        "top": 175,
+        "bottom": 252
+      },
+      "printer": {
+        "left": 48,
+        "right": 273,
+        "top": 494,
+        "bottom": 617
+      },
+      "paper": {
+        "left": 84,
+        "right": 235,
+        "top": 576,
+        "bottom": 679
+      },
+      "menu": {
+        "left": 258,
+        "right": 302,
+        "top": 47,
+        "bottom": 91
+      },
+      "map": {
+        "left": 18,
+        "right": 302,
+        "top": 5382,
+        "bottom": 5928
+      },
+      "sticky": {
+        "left": 0,
+        "right": 320,
+        "top": 618,
+        "bottom": 680
+      },
+      "groupWidth": 4124,
+      "tickerWidth": 320,
+      "robots": "noindex, nofollow",
+      "lang": "bs",
+      "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+      "phones": [
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072"
+      ],
+      "maps": [
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+      ]
+    },
+    "360": {
+      "width": 360,
+      "height": 680,
+      "scrollWidth": 360,
+      "hero": {
+        "left": 18,
+        "right": 342,
+        "top": 175,
+        "bottom": 257
+      },
+      "printer": {
+        "left": 45,
+        "right": 315,
+        "top": 483,
+        "bottom": 630
+      },
+      "paper": {
+        "left": 88,
+        "right": 270,
+        "top": 581,
+        "bottom": 705
+      },
+      "menu": {
+        "left": 298,
+        "right": 342,
+        "top": 47,
+        "bottom": 91
+      },
+      "map": {
+        "left": 18,
+        "right": 342,
+        "top": 5340,
+        "bottom": 5867
+      },
+      "sticky": {
+        "left": 0,
+        "right": 360,
+        "top": 618,
+        "bottom": 680
+      },
+      "groupWidth": 4124,
+      "tickerWidth": 360,
+      "robots": "noindex, nofollow",
+      "lang": "bs",
+      "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+      "phones": [
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072"
+      ],
+      "maps": [
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+      ]
+    },
+    "375": {
+      "width": 375,
+      "height": 680,
+      "scrollWidth": 375,
+      "hero": {
+        "left": 18,
+        "right": 357,
+        "top": 175,
+        "bottom": 260
+      },
+      "printer": {
+        "left": 52,
+        "right": 322,
+        "top": 486,
+        "bottom": 634
+      },
+      "paper": {
+        "left": 96,
+        "right": 277,
+        "top": 584,
+        "bottom": 709
+      },
+      "menu": {
+        "left": 313,
+        "right": 357,
+        "top": 47,
+        "bottom": 91
+      },
+      "map": {
+        "left": 18,
+        "right": 357,
+        "top": 5343,
+        "bottom": 5871
+      },
+      "sticky": {
+        "left": 0,
+        "right": 375,
+        "top": 618,
+        "bottom": 680
+      },
+      "groupWidth": 4124,
+      "tickerWidth": 375,
+      "robots": "noindex, nofollow",
+      "lang": "bs",
+      "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+      "phones": [
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072"
+      ],
+      "maps": [
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+      ]
+    },
+    "390": {
+      "width": 390,
+      "height": 680,
+      "scrollWidth": 390,
+      "hero": {
+        "left": 18,
+        "right": 372,
+        "top": 175,
+        "bottom": 264
+      },
+      "printer": {
+        "left": 55,
+        "right": 335,
+        "top": 486,
+        "bottom": 639
+      },
+      "paper": {
+        "left": 100,
+        "right": 288,
+        "top": 587,
+        "bottom": 717
+      },
+      "menu": {
+        "left": 328,
+        "right": 372,
+        "top": 47,
+        "bottom": 91
+      },
+      "map": {
+        "left": 18,
+        "right": 372,
+        "top": 5334,
+        "bottom": 5861
+      },
+      "sticky": {
+        "left": 0,
+        "right": 390,
+        "top": 618,
+        "bottom": 680
+      },
+      "groupWidth": 4124,
+      "tickerWidth": 390,
+      "robots": "noindex, nofollow",
+      "lang": "bs",
+      "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+      "phones": [
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072"
+      ],
+      "maps": [
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+      ]
+    },
+    "430": {
+      "width": 430,
+      "height": 680,
+      "scrollWidth": 430,
+      "hero": {
+        "left": 18,
+        "right": 412,
+        "top": 175,
+        "bottom": 273
+      },
+      "printer": {
+        "left": 62,
+        "right": 367,
+        "top": 486,
+        "bottom": 652
+      },
+      "paper": {
+        "left": 111,
+        "right": 316,
+        "top": 596,
+        "bottom": 737
+      },
+      "menu": {
+        "left": 368,
+        "right": 412,
+        "top": 47,
+        "bottom": 91
+      },
+      "map": {
+        "left": 18,
+        "right": 412,
+        "top": 5364,
+        "bottom": 5892
+      },
+      "sticky": {
+        "left": 0,
+        "right": 430,
+        "top": 618,
+        "bottom": 680
+      },
+      "groupWidth": 4124,
+      "tickerWidth": 430,
+      "robots": "noindex, nofollow",
+      "lang": "bs",
+      "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+      "phones": [
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072"
+      ],
+      "maps": [
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+      ]
+    },
+    "600": {
+      "width": 600,
+      "height": 900,
+      "scrollWidth": 600,
+      "hero": {
+        "left": 18,
+        "right": 582,
+        "top": 175,
+        "bottom": 293
+      },
+      "printer": {
+        "left": 165,
+        "right": 435,
+        "top": 519,
+        "bottom": 667
+      },
+      "paper": {
+        "left": 208,
+        "right": 390,
+        "top": 617,
+        "bottom": 742
+      },
+      "menu": {
+        "left": 538,
+        "right": 582,
+        "top": 47,
+        "bottom": 91
+      },
+      "map": {
+        "left": 18,
+        "right": 582,
+        "top": 5473,
+        "bottom": 6001
+      },
+      "sticky": {
+        "left": 0,
+        "right": 600,
+        "top": 838,
+        "bottom": 900
+      },
+      "groupWidth": 4124,
+      "tickerWidth": 600,
+      "robots": "noindex, nofollow",
+      "lang": "bs",
+      "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+      "phones": [
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072"
+      ],
+      "maps": [
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+      ]
+    },
+    "768": {
+      "width": 768,
+      "height": 900,
+      "scrollWidth": 753,
+      "hero": {
+        "left": 27,
+        "right": 727,
+        "top": 192,
+        "bottom": 339
+      },
+      "printer": {
+        "left": 152,
+        "right": 602,
+        "top": 517,
+        "bottom": 763
+      },
+      "paper": {
+        "left": 224,
+        "right": 526,
+        "top": 680,
+        "bottom": 888
+      },
+      "menu": {
+        "left": 681,
+        "right": 727,
+        "top": 44,
+        "bottom": 88
+      },
+      "map": {
+        "left": 27,
+        "right": 421,
+        "top": 4814,
+        "bottom": 5378
+      },
+      "sticky": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0
+      },
+      "groupWidth": 5287,
+      "tickerWidth": 753,
+      "robots": "noindex, nofollow",
+      "lang": "bs",
+      "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+      "phones": [
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072"
+      ],
+      "maps": [
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+      ]
+    },
+    "1024": {
+      "width": 1024,
+      "height": 900,
+      "scrollWidth": 1009,
+      "hero": {
+        "left": 32,
+        "right": 476,
+        "top": 326,
+        "bottom": 447
+      },
+      "printer": {
+        "left": 477,
+        "right": 977,
+        "top": 270,
+        "bottom": 543
+      },
+      "paper": {
+        "left": 557,
+        "right": 893,
+        "top": 451,
+        "bottom": 682
+      },
+      "menu": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0
+      },
+      "map": {
+        "left": 32,
+        "right": 587,
+        "top": 5020,
+        "bottom": 5567
+      },
+      "sticky": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0
+      },
+      "groupWidth": 5287,
+      "tickerWidth": 1009,
+      "robots": "noindex, nofollow",
+      "lang": "bs",
+      "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+      "phones": [
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072"
+      ],
+      "maps": [
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+      ]
+    },
+    "1440": {
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1425,
+      "hero": {
+        "left": 33,
+        "right": 672,
+        "top": 302,
+        "bottom": 471
+      },
+      "printer": {
+        "left": 782,
+        "right": 1282,
+        "top": 270,
+        "bottom": 543
+      },
+      "paper": {
+        "left": 862,
+        "right": 1198,
+        "top": 451,
+        "bottom": 682
+      },
+      "menu": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0
+      },
+      "map": {
+        "left": 33,
+        "right": 837,
+        "top": 4792,
+        "bottom": 5320
+      },
+      "sticky": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0
+      },
+      "groupWidth": 5287,
+      "tickerWidth": 1425,
+      "robots": "noindex, nofollow",
+      "lang": "bs",
+      "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+      "phones": [
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072"
+      ],
+      "maps": [
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+      ]
+    },
+    "1920": {
+      "width": 1920,
+      "height": 900,
+      "scrollWidth": 1905,
+      "hero": {
+        "left": 273,
+        "right": 912,
+        "top": 290,
+        "bottom": 483
+      },
+      "printer": {
+        "left": 1022,
+        "right": 1522,
+        "top": 270,
+        "bottom": 543
+      },
+      "paper": {
+        "left": 1102,
+        "right": 1438,
+        "top": 451,
+        "bottom": 682
+      },
+      "menu": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0
+      },
+      "map": {
+        "left": 273,
+        "right": 1077,
+        "top": 4792,
+        "bottom": 5320
+      },
+      "sticky": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0
+      },
+      "groupWidth": 5287,
+      "tickerWidth": 1905,
+      "robots": "noindex, nofollow",
+      "lang": "bs",
+      "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+      "phones": [
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072"
+      ],
+      "maps": [
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+      ]
+    }
+  },
+  "replay": [
+    {
+      "cycle": 1,
+      "start": "matrix(1, 0, 0, 1, 0, 0)",
+      "end": "matrix(1, 0, 0, 1, 0, 241)"
+    },
+    {
+      "cycle": 2,
+      "start": "matrix(1, 0, 0, 1, 0, 0)",
+      "end": "matrix(1, 0, 0, 1, 0, 241)"
+    },
+    {
+      "cycle": 3,
+      "start": "matrix(1, 0, 0, 1, 0, 0)",
+      "end": "matrix(1, 0, 0, 1, 0, 241)"
+    }
+  ],
+  "menu": {
+    "open": {
+      "expanded": "true",
+      "inert": false
+    },
+    "escape": {
+      "expanded": "false",
+      "focus": true,
+      "inert": true
+    },
+    "desktop": {
+      "expanded": "false",
+      "inert": true
+    },
+    "link": {
+      "hash": "#usluge",
+      "expanded": "false"
+    },
+    "logo": {
+      "hash": "#pocetna",
+      "expanded": "false"
+    }
+  },
+  "en": {
+    "mobile": {
+      "width": 375,
+      "height": 812,
+      "scrollWidth": 375,
+      "hero": {
+        "left": 18,
+        "right": 357,
+        "top": 175,
+        "bottom": 260
+      },
+      "printer": {
+        "left": 53,
+        "right": 322,
+        "top": 486,
+        "bottom": 634
+      },
+      "paper": {
+        "left": 96,
+        "right": 277,
+        "top": 454,
+        "bottom": 579
+      },
+      "menu": null,
+      "map": {
+        "left": 18,
+        "right": 357,
+        "top": 1715,
+        "bottom": 2260
+      },
+      "sticky": {
+        "left": 0,
+        "right": 375,
+        "top": 750,
+        "bottom": 812
+      },
+      "groupWidth": 0,
+      "tickerWidth": 0,
+      "robots": "noindex, nofollow",
+      "lang": "en",
+      "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+      "phones": [
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072"
+      ],
+      "maps": [
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+      ]
+    },
+    "hours": [
+      "Gazi Husrev-begova 33, 71000 Sarajevo",
+      "+387 64 44 67 072",
+      "Monday – Friday\n08:00 – 19:00",
+      "Saturday\n10:00 – 15:00",
+      "Sunday\nClosed"
+    ],
+    "replay": "Replay printer animation",
+    "replayEnd": {
+      "paper": "matrix(1, 0, 0, 1, 0, 241)",
+      "ink": "1"
+    },
+    "reduced": {
+      "paper": "matrix(1, 0, 0, 1, 0, 241)",
+      "ink": "1"
+    },
+    "desktop": {
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1425,
+      "hero": {
+        "left": 33,
+        "right": 672,
+        "top": 302,
+        "bottom": 471
+      },
+      "printer": {
+        "left": 787,
+        "right": 1277,
+        "top": 291,
+        "bottom": 559
+      },
+      "paper": {
+        "left": 865,
+        "right": 1195,
+        "top": 232,
+        "bottom": 459
+      },
+      "menu": null,
+      "map": {
+        "left": 33,
+        "right": 1393,
+        "top": 2018,
+        "bottom": 2546
+      },
+      "sticky": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0
+      },
+      "groupWidth": 0,
+      "tickerWidth": 0,
+      "robots": "noindex, nofollow",
+      "lang": "en",
+      "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+      "phones": [
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072",
+        "tel:+387644467072"
+      ],
+      "maps": [
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+        "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+      ]
+    },
+    "switch": "/"
+  },
+  "errors": [
+    "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED",
+    "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED",
+    "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED",
+    "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED",
+    "Failed to load resource: net::ERR_NETWORK_ACCESS_DENIED"
+  ],
+  "initial": {
+    "width": 375,
+    "height": 812,
+    "scrollWidth": 375,
+    "hero": {
+      "left": 18,
+      "right": 357,
+      "top": 175,
+      "bottom": 260
+    },
+    "printer": {
+      "left": 52,
+      "right": 322,
+      "top": 486,
+      "bottom": 634
+    },
+    "paper": {
+      "left": 96,
+      "right": 277,
+      "top": 584,
+      "bottom": 709
+    },
+    "menu": {
+      "left": 313,
+      "right": 357,
+      "top": 47,
+      "bottom": 91
+    },
+    "map": {
+      "left": 18,
+      "right": 357,
+      "top": 5343,
+      "bottom": 5871
+    },
+    "sticky": {
+      "left": 0,
+      "right": 375,
+      "top": 750,
+      "bottom": 812
+    },
+    "groupWidth": 4124,
+    "tickerWidth": 375,
+    "robots": "noindex, nofollow",
+    "lang": "bs",
+    "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+    "phones": [
+      "tel:+387644467072",
+      "tel:+387644467072",
+      "tel:+387644467072",
+      "tel:+387644467072",
+      "tel:+387644467072",
+      "tel:+387644467072",
+      "tel:+387644467072"
+    ],
+    "maps": [
+      "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+      "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+      "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+    ]
+  },
+  "rapid": {
+    "start": "matrix(1, 0, 0, 1, 0, 0)",
+    "end": "matrix(1, 0, 0, 1, 0, 241)",
+    "paperText": "KOPIRNICA\nBEZISTAN."
+  },
+  "low": {
+    "width": 375,
+    "height": 640,
+    "scrollWidth": 375,
+    "hero": {
+      "left": 18,
+      "right": 357,
+      "top": 175,
+      "bottom": 260
+    },
+    "printer": {
+      "left": 52,
+      "right": 322,
+      "top": 486,
+      "bottom": 634
+    },
+    "paper": {
+      "left": 96,
+      "right": 277,
+      "top": 584,
+      "bottom": 709
+    },
+    "menu": {
+      "left": 313,
+      "right": 357,
+      "top": 47,
+      "bottom": 91
+    },
+    "map": {
+      "left": 18,
+      "right": 357,
+      "top": 5343,
+      "bottom": 5871
+    },
+    "sticky": {
+      "left": 0,
+      "right": 375,
+      "top": 578,
+      "bottom": 640
+    },
+    "groupWidth": 4124,
+    "tickerWidth": 375,
+    "robots": "noindex, nofollow",
+    "lang": "bs",
+    "iframe": "https://www.google.com/maps?q=Kopirnica%20Bezistan%2C%20Gazi%20Husrev-begova%2033%2C%2071000%20Sarajevo&output=embed",
+    "phones": [
+      "tel:+387644467072",
+      "tel:+387644467072",
+      "tel:+387644467072",
+      "tel:+387644467072",
+      "tel:+387644467072",
+      "tel:+387644467072",
+      "tel:+387644467072"
+    ],
+    "maps": [
+      "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+      "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo",
+      "https://www.google.com/maps/search/?api=1&query=Kopirnica+Bezistan%2C+Gazi+Husrev-begova+33%2C+Sarajevo"
+    ]
+  },
+  "reduced": {
+    "paper": "matrix(1, 0, 0, 1, 0, 241)",
+    "ink": "1",
+    "ticker": "none"
+  }
+}
